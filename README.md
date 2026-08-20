@@ -23,7 +23,7 @@
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lucasli2)](https://github.com/stats-organization/github-stats-extended)
 
 
-### miata shrine 
-<iframe src="https://giphy.com/embed/pmBQnqb9QpXkA" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/on-see-mazda-pmBQnqb9QpXkA">via GIPHY</a></p>
+### shrines
+![makesweet.com](makesweet-esp32s3.gif)
 
 **🙏🙏Worship🙏🙏**
